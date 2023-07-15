@@ -45,7 +45,6 @@ Hi there! My name is Moataz Mhamdi, and I'm a dedicated software engineering stu
 As a software engineering student, I continually strive to expand my skill set and stay up-to-date with the latest industry trends. With a solid foundation in software engineering principles and a passion for creating seamless user experiences, I am committed to delivering high-quality web applications. I enjoy collaborating with teams to bring ideas to life and contribute to the success of projects.
 If you're looking for a dedicated and skilled web developer to bring your vision to reality, I would be thrilled to be a part of your team. Let's work together to build exceptional web experiences that leave a lasting impression.
 
-                                                    - MONKEY D LUFFY-
       </p>
       <a href="#contact" className='btn btn-primary'>Let's Talk</a>
       </div>
