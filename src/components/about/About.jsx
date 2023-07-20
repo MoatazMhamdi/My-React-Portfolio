@@ -35,7 +35,7 @@ const about = () => {
           <articale className='about__card'>
           < MdOutlineVolunteerActivism className='about__icon'/>
             <h5> Volunteer Experience </h5>
-            <small>3+ Years spended in Enactus Esprit ICT</small>
+            <small>3+ Years spend in Enactus Esprit ICT</small>
           </articale>
         </div>
       <p> 
