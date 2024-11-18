@@ -79,7 +79,20 @@ const experience = () => {
              <small className="text-light">Experienced</small>
             </div>
           </article>
-
+          <article className="experience__details">
+             <BsFillPatchCheckFill className="experience__details-icon"/>
+            <div>
+            <h4> NodeJS</h4>
+             <small className="text-light">Experienced</small>
+            </div>
+          </article>
+          <article className="experience__details">
+             <BsFillPatchCheckFill className="experience__details-icon"/>
+            <div>
+            <h4> ReactJS</h4>
+             <small className="text-light">Experienced</small>
+            </div>
+          </article>
 
           <article className="experience__details">
              <BsFillPatchCheckFill className="experience__details-icon"/>
@@ -143,6 +156,13 @@ const experience = () => {
              <BsFillPatchCheckFill className="experience__details-icon"/>
              <div>
              <h4> MONGO DB</h4>
+             <small className="text-light">Exprienced</small>
+             </div>
+          </article>
+          <article className="experience__details">
+             <BsFillPatchCheckFill className="experience__details-icon"/>
+             <div>
+             <h4> PostgreSQL</h4>
              <small className="text-light">Exprienced</small>
              </div>
           </article>
